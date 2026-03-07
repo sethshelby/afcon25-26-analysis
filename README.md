@@ -31,8 +31,5 @@ Some example questions this analysis aims to answer:
   - Cards by match minute / phase of game
 
 ## Data
-
-Describe your dataset here:
-
-- **Source:** _Kaggle
-- **Format:** _afcon2025_2026.csv
+- **Source:** Kaggle
+- **Format:** afcon2025_2026.csv
