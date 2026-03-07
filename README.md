@@ -26,10 +26,7 @@ Some example questions this analysis aims to answer:
   - Which teams are most efficient (goals per shot / goals per shot on target)?
 
 - **Discipline**
-  - Distribution of **yellow cards** (and red cards if available)
-  - Which matches/teams produce the most cards?
-  - Cards by match minute / phase of game
-
+  - Distribution of **yellow cards**
 ## Data
 - **Source:** Kaggle
 - **Format:** afcon2025_2026.csv
