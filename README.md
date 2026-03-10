@@ -27,6 +27,8 @@ Some example questions this analysis aims to answer:
 
 - **Discipline**
   - Distribution of **yellow cards**
+ 
+
 ## Data
 - **Source:** Kaggle
 - **Format:** afcon2025_2026.csv
